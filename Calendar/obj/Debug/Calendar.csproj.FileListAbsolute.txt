@@ -1,0 +1,13 @@
+D:\uni\sem4\PTTKGT\Calendar\Calendar\bin\Debug\Calendar.exe.config
+D:\uni\sem4\PTTKGT\Calendar\Calendar\bin\Debug\Calendar.exe
+D:\uni\sem4\PTTKGT\Calendar\Calendar\bin\Debug\Calendar.pdb
+D:\uni\sem4\PTTKGT\Calendar\Calendar\obj\Debug\Calendar.csproj.AssemblyReference.cache
+D:\uni\sem4\PTTKGT\Calendar\Calendar\obj\Debug\Calendar.Form1.resources
+D:\uni\sem4\PTTKGT\Calendar\Calendar\obj\Debug\Calendar.Properties.Resources.resources
+D:\uni\sem4\PTTKGT\Calendar\Calendar\obj\Debug\Calendar.csproj.GenerateResource.cache
+D:\uni\sem4\PTTKGT\Calendar\Calendar\obj\Debug\Calendar.csproj.CoreCompileInputs.cache
+D:\uni\sem4\PTTKGT\Calendar\Calendar\obj\Debug\Calendar.exe
+D:\uni\sem4\PTTKGT\Calendar\Calendar\obj\Debug\Calendar.pdb
+D:\uni\sem4\PTTKGT\Calendar\Calendar\obj\Debug\Calendar.UserControlBlank.resources
+D:\uni\sem4\PTTKGT\Calendar\Calendar\obj\Debug\Calendar.UserControlDays.resources
+D:\uni\sem4\PTTKGT\Calendar\Calendar\obj\Debug\Calendar.EventForm.resources
